@@ -1,0 +1,87 @@
+[
+    {
+        "id": 1,
+        "clicked" : false,
+        "image": "./images/Bestiary_Cockatrice.png",
+        "color": "purple",
+        "description": "Cockatrice"
+      },
+      {
+        "id": 2,
+        "clicked" : false,
+        "image": "./images/People_Midday_Bride.png",
+        "color": "coral",
+        "description": "Midday Bride"
+      },
+      {
+        "id": 3,
+        "clicked" : false,
+        "image": "./images/Bestiary_Dagon.png",
+        "color": "olive",
+        "description": "Dagon"
+      },
+      {
+        "id": 4,
+        "clicked" : false,
+        "image": "./images/Bestiary_Werewolf.png",
+        "color": "black",
+        "description": "Werewolf"
+      },
+      {
+        "id": 5,
+        "clicked" : false,
+        "image": "./images/Bestiary_Striga.png",
+        "color": "crimson",
+        "description": "Striga"
+      },
+      {
+        "id": 6,
+        "clicked" : false,
+        "image": "./images/Bestiary_Drowner.png",
+        "color": "aqua",
+        "description": "Drowner"
+      },
+      {
+        "id": 7,
+        "clicked" : false,
+        "image": "./images/Bestiary_Golem.png",
+        "color": "teal",
+        "description": "Golem"
+      },
+      {
+        "id": 8,
+        "clicked" : false,
+        "image": "./images/Bestiary_Alghoul.png",
+        "color": "grey",
+        "description": "Alghoul"
+      },
+      {
+        "id": 9,
+        "clicked" : false,
+        "image": "./images/Bestiary_Wyvern.png",
+        "color": "orange",
+        "description": "Wyvern"
+      },
+      {
+        "id": 10,
+        "clicked" : false,
+        "image": "./images/Bestiary_Echinops.png",
+        "color": "darkgreen",
+        "description": "Echinops"
+      },
+      {
+        "id": 11,
+        "clicked" : false,
+        "image": "./images/Bestiary_Basilisk.png",
+        "color": "sienna",
+        "description": "Basilisk"
+      },
+      {
+        "id": 12,
+        "clicked" : false,
+        "image": "./images/Bestiary_Barghest.png",
+        "color": "lime",
+        "description": "Barghest"
+      }
+      
+]
