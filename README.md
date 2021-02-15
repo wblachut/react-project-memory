@@ -22,14 +22,14 @@ Display from the web app bellow
 - React Functional Components
 - Hooks
 
-# Tools:
+## Tools:
 
 - Visual Studio Code
 - Javascript
 - React
 - ESLint
 
-## Some concepts to apply in future:
+## Some things to apply in future:
 
 - update app design
 - add css transitions for changing turns and for end of the game
