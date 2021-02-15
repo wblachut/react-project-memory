@@ -1,70 +1,37 @@
-# Getting Started with Create React App
+# The Witcher Bestiary memory card game!
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## PROJECT: MEMORY CARD
 
-## Available Scripts
+Want to become a witcher? But you have no idea what you will face! [Learn about it here!](https://wblachut.github.io/react-project-memory/)
 
-In the project directory, you can run:
+Project is a part of The Odin Project [JavaScript learning curriculum](https://www.theodinproject.com/courses/javascript). To learn more open the [assignment](https://www.theodinproject.com/courses/javascript/lessons/memory-card)
 
-### `npm start`
+## Description
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Web memory game. Cards images are based on Andrzej Sapkowski's The Witcher Saga's bestiary. Creating this web game focused on implementing functional components. I got ready page skeleton and changed it from class to functional component. I started to really like them since that time. I have also used hooks for the first time. Also finding all those slavic and other folk-beliefs beast was heck of a fun!
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+So hooks are a little bit complicated right? ...No! They are not, they are convenient!
 
-### `npm test`
+Display from the web app bellow
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+![](/public/images/memo_gif.gif)
 
-### `npm run build`
+## Concepts used and learned:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- The Witcher's Bestiary knowledge
+- React Functional Components
+- Hooks
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+# Tools:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- Visual Studio Code
+- Javascript
+- React
+- ESLint
 
-### `npm run eject`
+## Some concepts to apply in future:
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- update app design
+- add css transitions for changing turns and for end of the game
+- expand the deck by adopting more bestiary positions
+- add sound on option with calm music from the witcher game
