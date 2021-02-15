@@ -1,8 +1,8 @@
 # The Witcher Bestiary memory card game
 
-## PROJECT: MEMORY CARD
-
 Want to become a witcher? But you have no clue what kind of monstrosities you will face! [Learn about them here!](https://wblachut.github.io/react-project-memory/)
+#
+## PROJECT: MEMORY CARD
 
 Project is a part of The Odin Project [JavaScript learning curriculum](https://www.theodinproject.com/courses/javascript). To learn more open the [TOP assignment page](https://www.theodinproject.com/courses/javascript/lessons/memory-card).
 
@@ -12,7 +12,7 @@ Web memory game. Cards images are based on Andrzej Sapkowski's The Witcher Saga'
 
 So hooks are a little bit complicated right? ...No! They are not, they are convenient!
 
-Display from the web app bellow
+Display from the web app bellow:
 
 ![](/public/images/memo_gif.gif)
 
